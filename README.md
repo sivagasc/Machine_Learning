@@ -59,5 +59,8 @@ https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen
 ### More about markdown editor 
 Online Markdown editor (https://dillinger.io/ )
 
+## Algorithm Cheat sheet
+![algorithm cheat sheet](https://miro.medium.com/max/4800/1*67Eg9qiRuLvXWFCZ-ckLlA.png)
+
 <hr/>
 ### Happy Learning
