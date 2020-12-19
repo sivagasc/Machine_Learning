@@ -36,27 +36,28 @@
 `jupyter lab` or `jupyter notebook`
 - Open the file and play around
 
-### Where to find data?
+## Where to find data?
 
-Online Data Science Competitions platforms etc 
-----------------------------
+### Online Data Science Competitions platforms etc 
+
 1. kaggle – Online datascience competitions ( from google) ( kaggle.com )
 2. Online Data Science competitions - https://www.drivendata.org/competitions/ 
 3. Quantopian: A Quant Finance platform where you can run your python scripts on financial data ( mostly secondary markets ) - www.quantopian.com  
-<br/>
-Code & Research Papers 
---------------------------
+
+### Code & Research Papers 
+
 1. Papers With Code highlights trending ML research and the code to implement it. (www.Paperswithcode.com)
 2. Github   - The code repository where you can find almost all types of code
 3. Stackoverflow  - online community for developers - ask your doubts here. You will hit this invariably 
 4. Arxiv.org  - A good repository of academic pre-prints & latest works  in ComputerScience & More recently on AI/ ML 
-<br/>
-Why Visualization 
-----------------
+
+### Why Visualization 
+
 Data Visualization by Hans Rosling 
 https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen
 
-More about markdown editor 
+### More about markdown editor 
 Online Markdown editor (https://dillinger.io/ )
 
+<hr/>
 ### Happy Learning
